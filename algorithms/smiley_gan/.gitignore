@@ -1,1 +1,3 @@
-get_images/
+gen_images/
+saved_models/
+.ipynb_checkpoints/
