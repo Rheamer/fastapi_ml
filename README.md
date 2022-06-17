@@ -1,6 +1,6 @@
 # DPLM  
 Fun little API for generation and validation of smiley faces.   
-Start server: in console - "__uvicorn main:app__" , find at 128.0.0.1:8000
+Start server: in console - "__uvicorn main:app__" , find at 128.0.0.1:8000/docs
 # Dataset   
 Quick, Draw! dataset   
   
